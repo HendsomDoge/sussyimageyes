@@ -1,0 +1,25 @@
+{
+  "short_name": "SussyPicious Image Yes.",
+  "name": "This is a online image gallery where you can share image with your friends! among",
+  "icons": [
+    {
+      "src": "bred.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "bred.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "bred.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
